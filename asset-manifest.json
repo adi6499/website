@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.03e5bff4.chunk.css",
+    "main.js": "/website/static/js/main.a1f90c65.chunk.js",
+    "main.js.map": "/website/static/js/main.a1f90c65.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.24964561.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.24964561.js.map",
+    "static/js/2.411da6d5.chunk.js": "/website/static/js/2.411da6d5.chunk.js",
+    "static/js/2.411da6d5.chunk.js.map": "/website/static/js/2.411da6d5.chunk.js.map",
+    "static/js/3.d0662a6a.chunk.js": "/website/static/js/3.d0662a6a.chunk.js",
+    "static/js/3.d0662a6a.chunk.js.map": "/website/static/js/3.d0662a6a.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/main.03e5bff4.chunk.css.map": "/website/static/css/main.03e5bff4.chunk.css.map",
+    "static/js/2.411da6d5.chunk.js.LICENSE.txt": "/website/static/js/2.411da6d5.chunk.js.LICENSE.txt",
+    "static/media/contain.css": "/website/static/media/image-header.49b52ffa.jpg",
+    "static/media/image-gallery-cone.461ff421.jpg": "/website/static/media/image-gallery-cone.461ff421.jpg",
+    "static/media/image-gallery-milkbottles.df1d9d84.jpg": "/website/static/media/image-gallery-milkbottles.df1d9d84.jpg",
+    "static/media/image-gallery-orange.49f4212b.jpg": "/website/static/media/image-gallery-orange.49f4212b.jpg",
+    "static/media/image-gallery-sugarcubes.09b72f4f.jpg": "/website/static/media/image-gallery-sugarcubes.09b72f4f.jpg",
+    "static/media/contain2.css": "/website/static/media/image-photography.104cf40b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24964561.js",
+    "static/js/2.411da6d5.chunk.js",
+    "static/css/main.03e5bff4.chunk.css",
+    "static/js/main.a1f90c65.chunk.js"
+  ]
+}
